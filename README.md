@@ -7,7 +7,9 @@
 
 ## the examples must be answered by using Grid and Flexbox 
 
-## Flex Game
+# Flex Game
 ![flex-game](https://github.com/abdalrahman20000/Grid-Flex-t4/assets/169168957/6ee09e91-858d-4969-a299-9e528e4557bf)
 
-## Grid Game
+# Grid Game
+![grid-game](https://github.com/abdalrahman20000/Grid-Flex-t4/assets/169168957/3c8ac032-f2e5-4fcd-bed2-67efb942b186)
+
