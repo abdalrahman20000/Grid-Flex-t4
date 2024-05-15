@@ -169,6 +169,8 @@
     grid-column: 3 / -1;
     grid-row: 2/8;
     background-color:orange ;
+    /* display:flex */
+
 }
 .box3 .footer{
     align-content: center;
